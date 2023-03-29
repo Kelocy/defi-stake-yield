@@ -1,0 +1,18 @@
+{
+  "11155111": {
+    "DappToken": [
+      "0x8d912BDab796d4888C2b7F5a043b5e2Fc94146b3"
+    ],
+    "TokenFarm": [
+      "0x98b8ebC2f29d5A2C6Fa929B9493692E01F694D8C"
+    ]
+  },
+  "5": {
+    "DappToken": [
+      "0xd49085fcC640aFD7455C552560744eb4822E7f21"
+    ],
+    "TokenFarm": [
+      "0xA946BCEb72B919aC4cF510420CaA28435A5174c2"
+    ]
+  }
+}
